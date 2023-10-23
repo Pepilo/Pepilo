@@ -1,4 +1,4 @@
-# Pr-sentation
+# MyGit
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Welcome+To+My+Page!;" />
 </h1>
@@ -26,39 +26,10 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Skills ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,react,vite" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,express,postman,mysql,postgresql" /><br>
-    <img src="https://skillicons.dev/icons?i=netlify,gcp,vscode,github,git" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,git" /><br>
 </div>
-
-<br/>
-
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ScrimaliAnthony/ScrimaliAnthony/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=ScrimaliAnthony&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-</div>
-
-<br/><br/>
-<hr/>
-
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Send+me+a+message+on+Linkedin!;I'm+always+happy+to+collab+:)">
-</h3>
-
-<br/>

@@ -9,12 +9,9 @@
     
 <div align="center">
 
-🔭 I’m currently working on **An E-commerce Site**
+🔭 I’m currently working on a job board
  
-🌱 I’m currently learning **Sequelize, Jest, TypeScript**
-
-💬 Ask me about **Node.js, Express, React, PostgreSQL, MySQL**
-
+🌱 I’m currently learning cyber security
  
  </div>
  

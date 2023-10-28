@@ -31,5 +31,5 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,express,postman,postgresql" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,bash,linux" /><br>
 </div>

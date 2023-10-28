@@ -29,7 +29,7 @@
 <h2 align="center">⚒️ Skills ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,java" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,express,postman,postgresql" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,github,git,bash,linux" /><br>
 </div>

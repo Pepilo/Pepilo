@@ -8,7 +8,7 @@ Master’s student and junior developer fascinated by the inner workings of comp
  
  </div>
  <br>
- <div>
+ <div align="center">
      Interning at the Port of Sète, where I develop software and work on data-driven solutions.
  </div>
 

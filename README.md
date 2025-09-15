@@ -5,6 +5,8 @@
 <div align="center">
  
 Master’s student and junior developer fascinated by the inner workings of computers. Exploring low-level programming through C, 8-bit projects, and soon, assembly language.
+<br>
+Interning at the Port of Sète, where I develop software and work on data-driven solutions.
  
  </div>
 

@@ -4,7 +4,7 @@
     
 <div align="center">
  
-Master’s student and junior developer fascinated by the inner workings of computers. Exploring low-level programming through C, 8-bit projects, and soon, assembly language.
+Full-stack web developer and Master’s student curious about how software works at every level — from modern web applications to low-level systems explored through personal projects in C and assembly.
  
  </div>
  <br>

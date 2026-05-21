@@ -18,8 +18,8 @@ Full-stack web developer and Master’s student curious about how software works
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,angular" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nest,postman" /><br>
-    <img src="https://skillicons.dev/icons?i=c,python,java,unity" /><br>
-    <img src="https://skillicons.dev/icons?i=git,docker,postgresql,mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,github,bash,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nest,spring" /><br>
+    <img src="https://skillicons.dev/icons?i=c,python,java,postgresql" /><br>
+    <img src="https://skillicons.dev/icons?i=postman,git,docker,bash" /><br>
+    <img src="https://skillicons.dev/icons?i=unity,vscode,github,linux" /><br>
 </div>
